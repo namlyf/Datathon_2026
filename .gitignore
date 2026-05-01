@@ -1,2 +1,3 @@
-data/
-*.csv
+data/*
+!data/sample_submission.csv
+!data/small.csv
