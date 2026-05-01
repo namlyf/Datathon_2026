@@ -1,0 +1,15 @@
+# Cơ bản & Xử lý dữ liệu
+numpy
+pandas
+pathlib
+
+# Mô hình hóa & Tính toán
+lightgbm
+scikit-learn
+
+# Giải thích mô hình (Bắt buộc theo đề thi)
+shap
+
+# Trực quan hóa
+matplotlib
+ipython
