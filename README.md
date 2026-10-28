@@ -111,14 +111,5 @@ Mở `Part_3/part3.ipynb` bằng Jupyter, chọn thư mục làm việc là `Par
 
 > **Lưu ý về dữ liệu Phần 1:** `Part_1/part1.ipynb` tham chiếu nhiều bảng nguồn như `customers.csv`, `orders.csv`, `products.csv` và `web_traffic.csv` trong thư mục `data/`. Các bảng này không có trong repository hiện tại (chỉ có `data/sample_submission.csv`), nên cần bổ sung dữ liệu đầu vào được phép sử dụng và cập nhật đường dẫn trong notebook trước khi chạy. Notebook cũng import `seaborn`, thư viện hiện chưa được liệt kê trong `requirement.txt`.
 
-## Mô tả dự án dùng cho CV
-
-**Bản tiếng Việt**
-
-> Phân tích dữ liệu thương mại điện tử thời trang giai đoạn 2012–2022 trong Datathon 2026; sử dụng phân tích giao dịch và Difference-in-Differences để đánh giá chiến dịch Urban Blowout, ước tính thiệt hại khoảng 340,7 triệu VNĐ qua 5 chu kỳ và đề xuất loại bỏ chương trình. Xây dựng mô hình LightGBM dự báo Revenue/COGS theo ngày cho 2023–2024, dùng đặc trưng lịch và Fourier, 5-fold TimeSeriesSplit, log-transform và SHAP; đạt R² trung bình 0,620 cho Revenue và 0,666 cho COGS.
-
-**English version**
-
-> Analyzed 2012–2022 fashion e-commerce data for Datathon 2026, applying transaction analysis and Difference-in-Differences to assess a recurring promotion and estimate VND 340.7M in cumulative net losses across five campaign cycles. Built daily LightGBM models for Revenue and COGS using calendar and Fourier features, five-fold time-series cross-validation, log target transformation, and SHAP; achieved mean cross-validation R² of 0.620 and 0.666, respectively.
 
 > Điều chỉnh phần mô tả CV theo đúng đóng góp cá nhân và chỉ giữ các kết quả có thể giải thích, xác minh trong báo cáo.
